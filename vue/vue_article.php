@@ -7,6 +7,7 @@
 </head>
 <body>
     <h2>Ajouter un article : </h2>
+    <!-- Formulaire ajout d'un article de type post -->
     <form action="" method="post">
         <p>Saisir le nom de l'article :</p>
         <input type="text" name="nom_article">
