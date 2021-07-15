@@ -11,7 +11,7 @@
     <form action="" method="post">
         <p>Saisir le nom de l'article :</p>
         <input type="text" name="nom_article">
-        <p>saisir le prix de l'article :</p>
+        <p>Saisir le prix de l'article :</p>
         <input type="text" name="prix_article">
         <p><input type="submit" value="Ajouter"></p>   
     </form>
