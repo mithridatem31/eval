@@ -12,7 +12,7 @@
         include('../utils/connect.php');
         //ajout du model
         include('../model/model_article.php');
-        echo '<p>ajout de l\'article qui se nomme : '.$name.' et dont le prix est de : '.$price.' €</p>';
+        echo '<p>Ajout d\'un article qui se nomme : '.$name.' et dont le prix est de : '.$price.' €</p>';
     }
     //test si nom_article et prix_article n'existe pas (ils sont vides)
     else if(!isset($_POST['nom_article']) and !isset($_POST['prix_article']))
